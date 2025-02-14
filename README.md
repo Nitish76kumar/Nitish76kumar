@@ -5,10 +5,17 @@ I am a **MERN Stack Developer** passionate about building dynamic and scalable w
 ---
 
 ### 🚀 About Me:
+
+```html
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;Passionate+about+Web+Development;Lifelong+Learner+%26+Problem+Solver" alt="Typing Animation" />
+</p>
+```
+
 - 🎓 Pursuing **B.Tech** at Quantum University, Roorkee (Graduating in 2025)
-- 💻 Currently interning as a **Frontend Developer at VRV Security**
 - 🌱 Learning **Next.js, React Native, and Figma** to expand my skill set
 - 🎯 Passionate about **web development, UI/UX design, and open-source contributions**
+- 💡 Always eager to learn new technologies and improve my problem-solving skills
 - 📖 Preparing for **SSC CGL** while balancing my development journey
 
 ---
